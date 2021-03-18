@@ -1,0 +1,200 @@
+{
+  "questions": [
+    {
+      "question": "What shows are you into? 📺",
+      "description": "Probably at least one or two shows they mention will be shows that you’ve seen and can talk about, and even if not, then you can get them to explain what the shows are about and what they like about them."
+    },
+    {
+      "question": "How often do you play sports? ⚽️",
+      "description": "If they are into sports, this one can be good, but if not, you might want to pass on to another question."
+    },
+    {
+      "question": "Are you usually early or late? ⌛️",
+      "description": "An odd question, but it can be a good one if you are going to get to know them and see them again. At least next time you meet you’ll know when to expect them to arrive. If they are usually early and you are usually late, you might want to make a special effort to be on time."
+    },
+    {
+      "question": "What’s your favorite drink? 🥛",
+      "description": "It can be alcoholic or nonalcoholic, but everyone enjoys talking about the things they love. And if you ever want to buy them a drink, you’ll know what to get them."
+    },
+    {
+      "question": "What do you hope never changes?",
+      "description": "A very open-ended question that can lead to a lot of different types of answers, some more interesting than others. It all depends on what direction they want to take it."
+    },
+    {
+      "question": "What’s your dream car? 🚗",
+      "description": "Another question for getting them to talk about what they love and who knows, it may be a car you’ve also had your eye on, and you can get into a conversation about cars."
+    },
+    {
+      "question": "Where would you rather be from? 🌍",
+      "description": "Most people have a special place in their hearts from their hometown, but a lot of people would rather have been born somewhere else."
+    },
+    {
+      "question": "What songs have you completely memorized? 🎶",
+      "description": "You probably don’t want to pressure them to sing it unless they’ve got a mind to, but it will give you a good idea of what type of music they like and can lead easily into a conversation about music."
+    },
+    {
+      "question": "What would you rate 10/10? 💯",
+      "description": "Always a great question to get some good recommendations. And most likely some very good topics for conversation."
+    },
+    {
+      "question": "What job would you be terrible at? 😬",
+      "description": "Flipping the common question of their dream job, this question will help you find out what they think they are not good at or at least what they dislike."
+    },
+    {
+      "question": "What are you absolutely determined to do?",
+      "description": "This one looks at some of their dreams or goals and lets you know what they consider to be a priority in their life. And it can lead to some great conversations about whatever they are looking to accomplish."
+    },
+    {
+      "question": "What skill would you like to master?",
+      "description": "Another question that looks at what they are into or at least what they would like to get into."
+    },
+    {
+      "question": "What website do you visit most often? 🕸",
+      "description": "If it’s one that you also visit a lot, you can swap things you found there 😲. If you don’t really use that site, you can always ask what they like about it."
+    },
+    {
+      "question": "What would your perfect room look like? 🏠",
+      "description": "Another question that is a little odd but can really tell you a lot about the person. Their perfect room tells you what their ideal environment is and where they feel most themselves."
+    },
+    {
+      "question": "What movie title best describes your life? 🍿",
+      "description": "This one can be a lot of fun, especially if you are both into movies. But if you are at a loss, there is always IMDB. Lots of funny answers to be had here."
+    },
+    {
+      "question": "What age do you want to live to? 👵👴",
+      "description": "It can get a bit morbid, but it doesn’t have to. Plus, it helps you to see how they view old age and their place in the world."
+    },
+    {
+      "question": "What kind of art do you enjoy most? 🎨",
+      "description": "Don’t feel limited to what is typically considered to be art, stuff to be put in museums. Anything that requires creativity can be considered art."
+    },
+    {
+      "question": "What takes up too much of your time? ⌛️",
+      "description": "This will tell you a little bit about what they don’t like to do, and probably a bit about what they would rather be doing."
+    },
+    {
+      "question": "What do you wish you knew more about? 📚",
+      "description": "We all wish we knew more. The subject might depend on the person. But we all have gaps in our knowledge we’d like to fill."
+    },
+    {
+      "question": "What’s the best way to start the day? 🌤",
+      "description": "This will definitely tell you a lot about their routines, or at least the routines they wish they had."
+    },
+    {
+      "question": "What mystery do you wish you knew the answer to? ❔",
+      "description": "Will it be a personal mystery? A famous mystery? An unsolved case? Only one way to find out."
+    },
+    {
+      "question": "How different was your life one year ago?",
+      "description": "With this question, you can find out a little about their past, a little about their present, and probably what they think about how their life is going."
+    },
+    {
+      "question": "What’s the best single day on the calendar? 📆",
+      "description": "It could be a holiday, it could be an anniversary, it could be their birthday. Whatever it is, I’m sure there is a reason why they like it and are probably pretty pumped to tell you about it."
+    },
+    {
+      "question": "What are some things you’ve had to unlearn? 🚮",
+      "description": "This is a great way to learn about what misinformation or mistaken beliefs they’ve had to overcome."
+    },
+    {
+      "question": "What’s your favorite genre of book or movie? 📖🎬",
+      "description": "A classic conversation starter, but sometimes those are the best. This is sure to get them talking about a subject they love, and you might even find you have some interests in common."
+    },
+    {
+      "question": "What’s the farthest you’ve ever been from home? 🛫🌍🪐",
+      "description": "We are the same person we were 5 years ago except for the people we’ve met, the books we’ve read, and the places we’ve been. Time to hear about some of the places they’ve been!"
+    },
+    {
+      "question": "What TV or YouTube channel doesn’t exist but really should? 📺",
+      "description": "There are channels of just puppies, fireplaces, and squishing things with hydraulic presses. What other niche channels haven’t made their way into the world?"
+    },
+    {
+      "question": "Where is the most interesting place you’ve been? 🌍",
+      "description": "Another question that is sure to bring out some interesting travel stories. You might even get a tip for somewhere to go on your next trip."
+    },
+    {
+      "question": "What fad or trend do you hope comes back? 📈",
+      "description": "There are no shortages of fads and trends, now it’s time to find out which old trend or fad they remember fondly."
+    },
+    {
+      "question": "What city would you most like to live in? 🏙",
+      "description": "And if they say they don’t like living in cities, you can ask what kind of countryside or town they would like to live in."
+    },
+    {
+      "question": "When was the last time you climbed a tree just for fun? 🌴",
+      "description": "Time to see how much of a free spirit they are. As people get older, the number of trees climbed per year drops at an alarming rate."
+    },
+    {
+      "question": "What do you consider to be your best find? 💯",
+      "description": "It could be something they bought, somewhere they went or some amazing restaurant they ate at. Whatever it is, it’s probably worth checking out or at least hearing about."
+    },
+    {
+      "question": "What is special about the place you grew up?",
+      "description": "Everywhere has something unique, something special about it. It doesn’t matter whether it’s a person, a place, or a thing, I’m sure there is something about the place they grew up that they cherish."
+    },
+    {
+      "question": "What age do you wish you could permanently be? 🍼",
+      "description": "This is a fun question because it leads to some interesting answers, but also, very often, the age that they pick is usually when they were the happiest. Make sure to ask what is so special about that age."
+    },
+    {
+      "question": "What’s worth spending more on to get the best? 💰",
+      "description": "Whether it’s food, clothing, or something else entirely, this question will get to the heart of what they value most. Or at least give you an idea of something to upgrade in your life."
+    },
+    {
+      "question": "What are you most likely to become famous for? ⭐️",
+      "description": "Very few people become famous, but everyone has the potential to be. And it doesn’t necessarily have to be something positive. Lots of people are famous because they screwed something up."
+    },
+    {
+      "question": "What fictional place would you most like to go? 🌍",
+      "description": "Books, movies, video games, nothing is off-limits. The fictional world is their oyster."
+    },
+    {
+      "question": "Where is the most relaxing place you’ve ever been to? 🌍",
+      "description": "Time to do a little digging for great vacation spots! And make sure you ask a lot of details because I’m sure they will have a lot to talk about."
+    },
+    {
+      "question": "What is the most heartwarming thing you’ve ever seen? ♥️",
+      "description": "Something from reality would be best, but if they can’t think of anything, they can dig into movies as well."
+    },
+    {
+      "question": "What’s the most interesting piece of art you’ve seen? 😃",
+      "description": "It doesn’t necessarily have to be good, because there are a lot of people who aren’t into art. Just as long as it’s interesting. You might even be able to pull it up on your phone if they remember enough about it."
+    },
+    {
+      "question": "Who has impressed you most with what they’ve accomplished? 🎓",
+      "description": "We all have people we look up to, finding out who they look up to will let you know what they consider to be important work, and it makes for an excellent conversation starter."
+    },
+    {
+      "question": "How do you relax after a hard day of work? 👨‍💻",
+      "description": "How someone spends their downtime often tells you more about who they are than what they do for their work."
+    },
+    {
+      "question": "What popular TV show or movie do you refuse to watch? 📺",
+      "description": "Whether it’s for moral reasons or they just don’t like the genre, it’s good to know where they draw that particular line and why."
+    },
+    {
+      "question": "What job do you think you’d be really good at?",
+      "description": "There is so much wasted talent in the world from people doing jobs they aren’t well suited to. Now you can find out what they think they are best at."
+    },
+    {
+      "question": "What pets did you have while you were growing up? 🐶",
+      "description": "Most people had at least a couple of pets while growing up, even if it’s just a goldfish or a hamster. Remember to ask follow up questions to keep the conversation going."
+    },
+    {
+      "question": "Where would you spend all your time if you could? ⏱",
+      "description": "It might be a favorite vacation spot, a favorite bar, or even a movie theater. This question will tell you a lot about what they enjoy and where they like to spend their time."
+    },
+    {
+      "question": "What would be the most amazing adventure to go on? 🏝",
+      "description": "Everyone’s idea of adventure is different. Some people lean to the more extreme, some to the more mundane. But, however the person you are trying to get to know leans, you’ll soon find out."
+    },
+    {
+      "question": "What would be your ideal way to spend the weekend?",
+      "description": "This is another question that tries to get at what they truly enjoy doing. And everyone loves talking about things they are passionate about."
+    },
+    {
+      "question": "What’s the best way a person can spend their time?",
+      "description": "This simple question can tell you a lot about their world view. The person might say something like helping the poor, or they might say it’s improving one’s self, or it might just be having fun. Whatever their answer, it will help you to get to know who they really are."
+    }
+  ]
+}

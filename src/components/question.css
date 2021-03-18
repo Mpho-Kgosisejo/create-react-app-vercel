@@ -1,0 +1,76 @@
+.question {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.question .text {
+  width: 60%;
+  height: 75%;
+  display: flex;
+  font-weight: 300;
+  align-items: center;
+  justify-content: center;
+  /* text-align: center; */
+  font-size: 8rem;
+}
+
+.question .description {
+  top: 0;
+  left: 0;
+  width: 35vh;
+  padding: 2.5rem;
+  display: flex;
+  cursor: pointer;
+  font-weight: 300;
+  font-size: 1.5rem;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  line-height: 1.6;
+  color: rgb(108, 108, 108);
+}
+
+.question .description span {
+  z-index: 2;
+}
+
+.question .description .shader {
+  width: 40rem;
+  height: 40rem;
+  top: -10rem;
+  left: -10rem;
+  /* box-shadow: 0 0 120px rgb(255, 187, 197); */
+  border-radius: 50%;
+  position: absolute;
+  background: rgb(255, 222, 227);
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.question .next {
+  position: absolute;
+  bottom: 4rem;
+  right: 4rem;
+  cursor: pointer;
+  font-weight: 300;
+  color: rgb(108, 108, 108);
+}
+
+.question .next:hover {
+  /* text-decoration: underline; */
+}
+
+.question .show-desc-button {
+  position: absolute;
+  top: 4rem;
+  left: 4rem;
+  font-weight: 300;
+  cursor: pointer;
+  color: rgb(108, 108, 108);
+}
+
+.question .show-desc-button:hover {
+  text-decoration: underline;
+}
